@@ -1,0 +1,9 @@
+.body {
+    background-color: gray;
+}
+
+#section-1 {
+    color: rgb(240, 218, 218);
+    background-color: rgb(76, 95, 95);
+    font-weight: bold;
+}
