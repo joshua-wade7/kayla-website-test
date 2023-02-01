@@ -1,9 +1,14 @@
 .body {
-    background-color: gray;
+  background-color: gray;
+  font-family: "Domine", serif;
 }
 
 #section-1 {
-    color: rgb(240, 218, 218);
-    background-color: rgb(76, 95, 95);
-    font-weight: bold;
+  color: rgb(240, 218, 218);
+  background-color: rgb(76, 95, 95);
+  font-weight: bold;
+}
+
+.footer {
+  margin-bottom: 200px;
 }
